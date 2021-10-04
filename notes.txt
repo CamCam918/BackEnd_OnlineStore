@@ -1,0 +1,78 @@
+https://us02web.zoom.us/j/82881942804
+
+
+pracitce
+
+var nums = [123,42359,12322,234,2334,68456, 9567,2347,1,56,67,123,8,0, -4];
+
+/**
+ * filter
+ * - number greater than 333
+ * - number lower that 100
+ * 
+ * 
+ * map 
+ * - number * 2
+ * - the number into "Hello World"
+ * 
+ */
+
+
+
+## Initial project configuration
+# Installations
+sudo apt update
+sudo apt install python3
+sudo apt install python3-venv
+sudo apt install python3-pip
+
+# initial configuration
+create project folder
+VVVVVVVVVVVVV
+mkdir flask_api
+---------------
+Go into project folder
+VVVVVVVVVVVVV
+cd flask_api
+---------------
+create virtual environment
+VVVVVVVVVVVVV
+python3 -m venv venv
+--------------------
+
+
+#### view files in windows explorer
+explorer.exe .
+
+###### on every restart
+# get into wsl
+wsl
+# go to home folder
+cd ~ 
+
+# project
+cd flask_api
+
+
+# activate virtual env
+# MUST BE on the project folder
+source venv/bin/activate
+
+sudo service mongodb status - check db is running
+sudo service mongodb start - start db
+python3 server.py - start server
+
+# kill the server
+Ctrl + C
+
+
+
+hacker rank - practice algorithm
+
+30 day JS challenge
+
+
+
+flexfrog
+
+code wars
